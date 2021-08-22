@@ -116,6 +116,11 @@ li {
   /* margin-right: %; */
 }
 
+.blockquote {
+  margin-top: 1.25rem;
+  margin-left: 12%;
+}
+
 .author {
   margin-top: 7.5rem;
   width: 80%;
