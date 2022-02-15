@@ -1,4 +1,4 @@
-# weather-journal
+# simple-blog
 
 Udacity Front End project 1
 
